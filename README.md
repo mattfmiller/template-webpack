@@ -17,7 +17,9 @@ This webpage will allow a user to ... more detailed.
 ## Setup/Installation Requirements
 
 * Install program by cloning this repository.
-* Open index.html in browser.
+* Run 'npm install' in terminal.
+* Run 'npm build' in terminal.
+* If needed, create .env file in project's root directory that contains your API keys in the form: API_KEY=[YOUR API_KEY GOES HERE]
 
 ## Known Bugs
 
@@ -26,7 +28,6 @@ N/A
 ## Support and contact details
 
 For Support, contact:
-N/A
 
 ## Technologies Used
 
@@ -34,7 +35,12 @@ N/A
 * CSS _(Bootstrap)_
 * JavaScript _(jQuery)_
 * Node
+* npm
 * Webpack
+* ESLint
+* Babel
+* Jasmine
+* Karma
 
 
 ### License
