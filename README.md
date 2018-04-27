@@ -2,7 +2,7 @@
 
 #### A brief program description
 
-#### By _**name**_
+#### By _**Matt Miller**_
 
 ## Description
 
@@ -16,9 +16,11 @@ This webpage will allow a user to ... more detailed.
 
 ## Setup/Installation Requirements
 
-* Install program by cloning this repository.
-* Run 'npm install' in terminal.
-* Run 'npm build' in terminal.
+* View program by cloning repository from _URL_.
+* Run 'npm install' in project root directory in terminal.
+* Run 'npm run build' in terminal to bundle and build project distribution folder.
+* Run 'npm test' in terminal to view jasmine tests
+* Run 'npm run start' in terminal to view project in development mode.
 * If needed, create .env file in project's root directory that contains your API keys in the form: API_KEY=[YOUR API_KEY GOES HERE]
 
 ## Known Bugs
@@ -27,14 +29,14 @@ N/A
 
 ## Support and contact details
 
-For Support, contact:
+For Support, contact: matt.f.miller@live.com
 
 ## Technologies Used
 
 * HTML
-* CSS _(Bootstrap)_
-* JavaScript _(jQuery)_
-* Node
+* CSS _(Bootstrap 4.1)_
+* JavaScript _(jQuery 3.2.1)_
+* Node.js
 * npm
 * Webpack
 * ESLint
@@ -53,4 +55,4 @@ The copyright notice and this permission notice shall be included in all copies 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Copyright (c) 2018 **name**
+Copyright (c) 2018 **Matt Miller**
